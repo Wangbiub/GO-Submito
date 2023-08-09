@@ -3,7 +3,7 @@ GO-Submito: Prediction of submitochondrial proteins localization based on Gene O
 
 The official PyTorch implementation of GO-Submito: Prediction of submitochondrial proteins localization based on Gene Ontology.
 GO-Submito utilizes a fine-tuned pre-trained language model and the Multi-head Attention Mechanism to predict the localization of submitochondrial proteins.
-![image](https://github.com/Wangbiub/GO-Submito/blob/main/1.png)
+![image](https://github.com/Wangbiub/GO-Submito/blob/main/GO-Submito.png)
 
 # requirements:
 GO-Submito requires:
