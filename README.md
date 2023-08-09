@@ -12,7 +12,7 @@ torch: 1.8.0
 
 cuda: 11.3
 
-python: 3.10
+python: 3.9.12
 # Steps:
 To effectively learn the representation of GO annotations, the GO terms encoder module fine-tunes the pre-trained BERT model using a GO-specific corpus via SimCSE. The code is showed in pre-train-simcse.py
 
