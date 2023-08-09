@@ -22,5 +22,5 @@ The input GO anntenitons are encoded by a fine-tuned BERT model, converting the 
 To fuse the features, we utilize a multi-head attention mechanism to combine the input features in the dual fusion block， which is in model424.py.
 
 The output of the multi-head attention mechanism is propagated through a linear layer, which is also included in model424.py. 
-# Running Code::
+# Running Code:
 main424.py
